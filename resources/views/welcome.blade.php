@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Granite
+                    Granite is on the way ...
                 </div>
 
                 <div class="links">
